@@ -1,0 +1,28 @@
+
+
+.App-header {
+  /*background-color: #282c34;
+  
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 100vh;
+  min-height: 100vh;*/
+}
+
+.mbody{
+  height:80vh;
+  margin:auto;
+  width:80%
+}
+.modal{
+  overflow: auto;
+}
+.emptypage{
+  position: relative;
+  top:25%;
+  margin-top: 10em;
+}
