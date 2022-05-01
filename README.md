@@ -13,7 +13,7 @@ N.B: you need to get your own api
 
 ## Deployment
 
-To deploy this project run
+To build this app run
 
 ```bash
   npm run build
